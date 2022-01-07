@@ -1,5 +1,7 @@
-{
-	"countryCode": "34",
-	"terminatingNumber": "698745632",
-	"textMessage": "Hi there!"
-}
+[
+	{
+		"countryCode": "34",
+		"terminatingNumber": "698745632",
+		"textMessage": "Hi there!"
+	}
+]
